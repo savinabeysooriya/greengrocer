@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "3518243189",
+    "firebase_url": "https://greengroccer-91f36.firebaseio.com",
+    "project_id": "greengroccer-91f36",
+    "storage_bucket": "greengroccer-91f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3518243189:android:9eb2ccb8ff25fae902333c",
+        "android_client_info": {
+          "package_name": "com.savin.green_grocer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3518243189-ma9qcgs35r1nak8s7sng04gcdrt12brs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZKSk2kilkNHPSEwedEl1faGEZz4uWJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3518243189-ma9qcgs35r1nak8s7sng04gcdrt12brs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
